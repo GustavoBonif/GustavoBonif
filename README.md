@@ -1,4 +1,3 @@
-<img align="right" alt="Gif" src="https://github.com/GustavoBonif/GustavoBonif/blob/main/ghost-in-the-shell.gif" width="200" height="150" />
 <div>
  "If a technological feat is possible, man will do it. Almost as if it’s wired into the core of our being"
 <br>
@@ -9,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/GustavoBonif">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=GustavoBonif&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBonif&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoBonif&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBonif&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div align="center" style="display: inline_block;"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -23,6 +22,7 @@
   <img align="center" alt="MySql" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="C" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Py" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="right" alt="Gif" src="https://github.com/GustavoBonif/GustavoBonif/blob/main/ghost-in-the-shell.gif" width="200" height="150" />
 </div>
 
 ##
