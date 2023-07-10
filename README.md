@@ -4,7 +4,6 @@
  - Motoki Kusanagi (Ghost In The Shell - 1995)
 </div>
 
-##
 <!---
 <div align="center">
   <a href="https://github.com/GustavoBonif">
